@@ -23,6 +23,7 @@ main{
   padding: 10px;
   position: relative;
   border: 1px solid #eee;
+
 }
 
 .step-box:last-child{
@@ -68,12 +69,19 @@ main{
 @media screen and (max-width:768px) {
 
 main {
-  width: 90%;
+  width: 100%;
   margin-bottom:50px;
   margin-top:50px;
 
 }
 .step-box{
+  width: 90%;
   margin-top:20px;
-  }
+   margin-bottom:20px;
 }
+
+}
+
+
+
+
