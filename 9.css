@@ -71,8 +71,8 @@ main{
 
 main {
   width: 100%;
-  margin-bottom:50px;
-  margin-top:50px;
+  /*margin-bottom:50px;
+  margin-top:50px;*/
 
 }
 .step-box:last-child{
@@ -80,18 +80,16 @@ main {
 }
 .step-box{
   width: 90%;
- 
   margin: 0 auto;
-  margin:0 5%;
+  float: none;
 }
 .btt1{
-  margin-top: 50px;
   margin-bottom: 20px;
 }
 
 .btt2{
 margin-top: 20px;
-margin-bottom: 100px;
+margin-bottom: 50px;
 
 }
 
